@@ -1,4 +1,5 @@
 # Synthetic-Chart
+![](https://i.imgur.com/wbNVmNnr.png)
 - Code to generate style-enriched chart images and annotations based on Matplotlib and Seaborn. See `demo.ipynb`.
 - Combines the best of [FigureQA](https://arxiv.org/abs/1710.07300) (multiple chart types) and [DVQA](https://arxiv.org/abs/1801.08163) (enriched styles).
 - Support vertical bar, horizontal bar, pie and line charts.
