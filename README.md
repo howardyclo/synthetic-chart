@@ -6,7 +6,7 @@
 - Built on open-source visualization libraries, Seaborn and Matplotlib.
 
 # Annotations
-- Visual styles (shared across different type of charts): Axes style, background color, foreground colors, has border, textures, legend position, other minor styles.
+- Visual styles (shared across different types of charts): Axes style, background color, foreground colors, has border, textures, legend position, other minor styles.
 - Text labels
 - Numerical data
 
