@@ -11,5 +11,5 @@
 
 # Train & Test Splits Generation
 - Note that there is a `phase` argument for generating charts, it is mainly generating training and testing data with some differences:
-  - Generate oreground colors based on two different color splits.
+  - Generate foreground colors based on two different color splits.
   - Generate labels based on two different vocabulary splits.
